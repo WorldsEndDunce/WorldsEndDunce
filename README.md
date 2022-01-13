@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @WorldsEndDunce
 - 👀 I’m interested in studying computer science, biomedical engineering, and/or music in college.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently honing my programming abilities
 - 💞️ I’m looking to collaborate on nothing ATM
-- 📫 How to reach me: WorldsEndDunce#4780, axtee13@gmail.com
+- 📫 How to reach me: WorldsEndDunce#4780, ateecup@stanford.edu
 
 <!---
 WorldsEndDunce/WorldsEndDunce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
