@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WorldsEndDunce
-- 👀 I’m studying computer science and music in college.
+- 👀 I’m studying math, music, and CS in college.
 - 🌱 I’m currently honing my programming abilities
-- 💞️ I’m looking to collaborate on nothing ATM
+- 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: WorldsEndDunce#4780, ateecup@stanford.edu
 
 <!---
