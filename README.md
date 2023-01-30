@@ -1,4 +1,4 @@
-- Hello, I'm Allison (欣倩).
+- Hello, I'm Allison (欣倩)!
 - I’m studying math, music, and CS in college. I'm also doing neurocomputation research.
 - You can reach me at ateecup@stanford.edu.
 
