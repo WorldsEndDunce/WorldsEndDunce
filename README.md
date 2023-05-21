@@ -1,5 +1,6 @@
 - Hello, I'm Allison (欣倩)!
-- I’m studying math, music, and CS in college. I'm also doing neurocomputation research.
+- I'm double majoring in math and music with a coterm masters in CS. Some fields of experience of mine include neurocomputation and AI/ML.
+- I'm doing biocomputation research this summer while participating in the NASA L'SPACE program (yay!).
 - You can reach me at ateecup@stanford.edu.
 
 Other than Python, here are some of the languages I use:
