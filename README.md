@@ -1,6 +1,6 @@
 - Hello, I'm Allison (欣倩)!
 - I'm double majoring in math and music with a coterm masters in CS. Some fields of experience of mine include neurocomputation and AI/ML.
-- Currently, I'm doing biocomputational research, and I'm an incoming SWE/ML intern at NASA.
+- Currently, I'm doing biocomputation research, and I'm an incoming SWE/ML intern at NASA.
 - You can reach me at ateecup@stanford.edu.
 
 Other than Python, here are some of the languages I use:
