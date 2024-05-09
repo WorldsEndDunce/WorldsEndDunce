@@ -1,6 +1,6 @@
 - Hello, I'm Allison (欣倩)!
 - I'm double majoring in math and music with a co-term masters in CS. Some fields of experience of mine include AI/ML and bio-inspired design.
-- My most recent work is on NASA PeTaL's BIDARA, an LLM-based agent for biomimicry. I'm also an incoming SDE intern at Amazon for Summer 2024.
+- My most recent work is on NASA PeTaL's BIDARA, an LLM-based agent for biomimicry. I'm also an incoming SDE intern at AWS for Summer 2024.
 - You can reach me at ateecup@stanford.edu.
 
 Other than Python, here are some of the languages I use:
