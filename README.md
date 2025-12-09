@@ -1,6 +1,6 @@
 - Hello, I'm Allison (欣倩)!
-- I'm double majoring in math and music with a co-term masters in CS. Some fields of experience of mine include AI/ML and bio-inspired design.
-- You can reach me at ateecup@stanford.edu.
+- I'm currently working at Instagram on the Relevance Integrity team (i.e. protecting users from harmful content)
+- I recently graduated from Stanford University with a bachelors in math and music and masters in CS. Some fields of experience of mine include AI/ML and bio-inspired design.
 
 Other than Python, here are some of the languages I use:
 
